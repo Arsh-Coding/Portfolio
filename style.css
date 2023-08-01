@@ -266,7 +266,10 @@ h3{
 #email{
   color: blue;
 }
-
+@media all and (max-width: 280px) {
+  body {
+      font-size: 0.7em;
+  }
 
 
 
