@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.showOnStatusbar": true,
+    "liveServer.settings.useLocalIp": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 600
+}
