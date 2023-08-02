@@ -55,8 +55,7 @@ header{
   padding: 0 10%;
 }
 .home-content{
-  max-width: 600px;
-  
+  height: vh;
 }
 .home-content h1{
   font-size: 46px;
@@ -266,12 +265,9 @@ h3{
 #email{
   color: blue;
 }
-@media all and (max-width: 280px) {
+
+@media all and (max-width: 330px) {
   body {
       font-size: 0.7em;
   }
 }
-
-
-
-
