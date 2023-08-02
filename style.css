@@ -192,6 +192,9 @@ header{
   background-position: center;
   color: #081b29;
 }
+.Skills{
+  color: grey;
+}
 .Skills h1{
   text-align: center;
 }
@@ -270,4 +273,7 @@ h3{
   body {
       font-size: 0.7em;
   }
+}
+.div{
+  height: 40%;
 }
