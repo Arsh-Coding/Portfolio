@@ -218,7 +218,7 @@ h3{
 
 
 .body1{
-  background-image: url('/assets/contactus.jpeg');
+  background-image: url('./assets/contactus.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; 
